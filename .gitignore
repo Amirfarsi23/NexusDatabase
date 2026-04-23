@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Generated data
+ifc_parsed.json
+ifc_json/
+
+# Revit/IFC auxiliary files
+sample_data/*.RVT
+sample_data/*.log.html
+sample_data/*.sharedparameters.txt
+sample_data/*.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
